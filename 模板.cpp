@@ -1,4 +1,6 @@
-﻿#include <iostream>
+PS:/* */中为上课敲的代码，其余为书上的一段代码
+
+#include <iostream>
 using namespace std;
 /*
 template<class T1,class T2>
